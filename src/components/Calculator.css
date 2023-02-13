@@ -1,0 +1,48 @@
+body {
+    background-color: orange;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+    width: 3em;
+    height: 3em;
+    font-size: 1.5em;
+    border: none;
+    border-radius: 2em;
+    margin: 0.3em;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+
+.wrapper {
+    background-color: white;
+    border-radius: 1em;
+    padding: 1em;
+}
+
+.green {
+    background-color: #26b52c;
+    color: white;
+}
+
+.red {
+    color: red;
+}
+
+.color {
+    color: #199439;
+}
+
+.result {
+    color: black;
+    display: flex;
+    justify-content: right;
+    margin-right: 1em;
+    font-size: 3.5em;
+    border-bottom: 4px solid #e5f6f2;
+    width: 100%;
+}
+ 
